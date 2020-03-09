@@ -22,7 +22,9 @@
 20.	**Zhang, H.**, Yang, H. C., & Yang, Y. (2008). PoooL: An efficient algorithm for estimating haplotypes from large DNA pools. ***Bioinformatics***, 24 (17), 1942-1948.
 21.	**Zhang, H.**, Zhang, H., Li, Z., & Zheng, G. (2007). Statistical methods for haplotype-based matched case-control association studies. ***Genetic Epidemiology***, 31 (4), 316-326. 
 
-Collaborative Publications
+
+## Collaborative Publications
+
 1.	Huang, J., Castelao, J. E., **Zhang, H.**, Martinez, M. E., Weinstein, S. J., The PRACTICAL Consortium, … Albanes, D. Thyroid hormone pathway genetic variation and risk of prostate cancer in the PRACTICAL Consortium. Under review. 
 2.	Zhu, B., Tse, S., Wang, D., Koka, H., Zhang, T., Abubakar, M., … **Zhang, H.**, … Yang, X. R. (2019). Immune gene expression profiling reveals heterogeneity in luminal breast tumors. ***Breast Cancer Research***. Accepted. 
 3.	Li, E., Guida, J. L., Tian, Y., Sung, H., Koka, H., Li, M., Chan, A., **Zhang, H.**, … Yang, X. R. (2019). Associations between mammographic density and tumor characteristics in Chinese women with breast cancer. ***Breast Cancer Research and Treatment***, 177 (2): 527-536. 
