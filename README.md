@@ -1,10 +1,17 @@
+## Work in Progress
+1. **Zhang, H.**, Deng, L., Qin, J., Yu, K. Improving inference efficiency of case-control studies by integrating summary statistics. To be submitted. 
+2. **Zhang, H.**, Yu, K. Variance component model for Mendelian randomization in case-control studies based on a large number of instrumental variables. To be submitted. 
+3.	Wong, J.\*, **Zhang, H.**\*, …, Lan, Q. Agnostic pathway analysis of genome-wide association study data reveals shared genes related to immune response to Mycobacterium tuberculosis and lung adenocarcinoma risk among never smoking women in Asia. Under review. **\*Equally contributing first authors**
+4.	Kiely, M., Tse, S., Koka, H., Wang, D., Lee, P., Wang, F., … **Zhang, H.**, … Yang, X. R. Age-related DNA methylation in paired normal and tumor tissue in Chinese women with breast cancer. Under review. 
+5.	Tian, Y., Guida, J., Koka, H., Li, E., Zhu, B., ... **Zhang, H.**, … Yang, X. R. Increasing fibroglandular dense volume is associated with luminal B and HER2-enriched breast cancer subtype in Chinese women with breast cancer. Under review. 
+
 ## Selected Publications
 
 1.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2019) Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***. Accepted. 
 2.	**Zhang, H.**, Qin, J., Berndt, S. I., Albanes, D., Gail, M. H., Yu, K. (2019) On Mendelian randomization in case-control studies. ***Biometrics***. Accepted. 
 3.	Deng, L., **Zhang, H.**, Song, L., Yu, K. (2019) Approximation of bias and mean squared error in two-sample Mendelian randomization analyses. ***Biometrics***. Accepted. 
 4.	Deng, L., **Zhang, H.**, Yu, K. (2020) Power calculation for the general two-sample Mendelian randomization analysis. ***Genetic Epidemiology***, 44 (3), 290-299. 
-5.	Wong, J.*, **Zhang, H.**\*, Hsiung C. A., Shiraishi K., Yu K., Matsuo K., … Lan, Q. (2020). Tuberculosis infection and lung adenocarcinoma: Mendelian randomization and pathway analysis of genome-wide association study data from never-smoking Asian women. ***Genomics***, 112 (2), 1223-1232. **\*Equally contributing first authors**
+5.	Wong, J.\*, **Zhang, H.**\*, Hsiung C. A., Shiraishi K., Yu K., Matsuo K., … Lan, Q. (2020). Tuberculosis infection and lung adenocarcinoma: Mendelian randomization and pathway analysis of genome-wide association study data from never-smoking Asian women. ***Genomics***, 112 (2), 1223-1232. **\*Equally contributing first authors**
 6.	Walsh, N.\*, **Zhang, H.**\*, Hyland, P. L., Yang, Q., Mocci, E., Zhang, M., … Stolzenberg-Solomon, R. Z. (2018). Agnostic pathway/gene set analysis of genome-wide association data identifies associations for pancreatic cancer. ***Journal of the National Cancer Institute***, 11 (6), 557-567. **\*Equally contributing first authors**
 7.	**Zhang, H.**, Wheeler, W., Song, L., & Yu, K. (2018). Proper joint analysis of summary association statistics requires the adjustment of heterogeneity in SNP coverage pattern. ***Briefings in Bioinformatics***, 19 (6), 1337-1343. 
 8.	**Zhang, H.**, Wu, C. O., Yang, Y., Berndt, S. I., Chanock, S. J., & Yu, K. (2018). A multi-locus genetic association test for a dichotomous trait and its secondary phenotype. ***Statistical Methods in Medical Research***, 27 (5), 1464-1475. 
