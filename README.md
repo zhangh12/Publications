@@ -8,8 +8,8 @@
 ## Selected Publications
 
 1.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2019) Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***. Accepted. 
-2.	**Zhang, H.**, Qin, J., Berndt, S. I., Albanes, D., Gail, M. H., Yu, K. (2019) On Mendelian randomization in case-control studies. ***Biometrics***. Accepted. 
-3.	Deng, L., **Zhang, H.**, Song, L., Yu, K. (2019) Approximation of bias and mean squared error in two-sample Mendelian randomization analyses. ***Biometrics***. Accepted. 
+2.	**Zhang, H.**, Qin, J., Berndt, S. I., Albanes, D., Gail, M. H., Yu, K. (2019) On Mendelian randomization in case-control studies. ***Biometrics***, 76 (2): 380-391. 
+3.	Deng, L., **Zhang, H.**, Song, L., Yu, K. (2019) Approximation of bias and mean squared error in two-sample Mendelian randomization analyses. ***Biometrics***, 76 (2): 369-379.
 4.	Deng, L., **Zhang, H.**, Yu, K. (2020) Power calculation for the general two-sample Mendelian randomization analysis. ***Genetic Epidemiology***, 44 (3), 290-299. 
 5.	Wong, J.\*, **Zhang, H.**\*, Hsiung C. A., Shiraishi K., Yu K., Matsuo K., … Lan, Q. (2020). Tuberculosis infection and lung adenocarcinoma: Mendelian randomization and pathway analysis of genome-wide association study data from never-smoking Asian women. ***Genomics***, 112 (2), 1223-1232. **\*Equally contributing first authors**
 6.	Walsh, N.\*, **Zhang, H.**\*, Hyland, P. L., Yang, Q., Mocci, E., Zhang, M., … Stolzenberg-Solomon, R. Z. (2018). Agnostic pathway/gene set analysis of genome-wide association data identifies associations for pancreatic cancer. ***Journal of the National Cancer Institute***, 11 (6), 557-567. **\*Equally contributing first authors**
