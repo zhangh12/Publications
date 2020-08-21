@@ -30,7 +30,7 @@
 
 ## Collaborative Publications
 
-1.	Kiely, M., Tse, S., Koka, H., Wang, D., Lee, P., Wang, F., … **Zhang, H.**, … Yang, X. R. Age-related DNA methylation in paired normal and tumor breast tissue in Chinese breast cancer patients. ***Epigenetics***. Accepted. 
+1.	Kiely, M., Tse, S., Koka, H., Wang, D., Lee, P., Wang, F., … **Zhang, H.**, … Yang, X. R. (2020). Age-related DNA methylation in paired normal and tumor breast tissue in Chinese breast cancer patients. ***Epigenetics***. Accepted. 
 2.	Yuan, F., Hung, R. J., Walsh, N., **Zhang, H.**, Platz, E. A., Wheeler, W., ... Stolzenberg-Solomon, R. (2020). Genetic susceptibility to chronic inflammatory intestinal diseases and pancreatic ductal adenocarcinoma risk: an analysis using genome-wide association study data. ***Cancer Research***. Accepted. 
 3.	Barry, K. H., Jones, R. R., Cantor, K. P., Freeman, L., Wheeler, D. C., … **Zhang, H.**, … Ward, M. H. (2020). Ingested nitrate and nitrite and bladder cancer in Northern New England. ***Epidemiology***, 31 (1), 136-144. 
 4.	Zhu, B., Tse, S., Wang, D., Koka, H., Zhang, T., Abubakar, M., … **Zhang, H.**, … Yang, X. R. (2019). Immune gene expression profiling reveals heterogeneity in luminal breast tumors. ***Breast Cancer Research***, 21 (1), 147. 
