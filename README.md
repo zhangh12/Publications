@@ -1,11 +1,13 @@
 ## Work in Progress
 1. **Zhang, H.**, Deng, L., Qin, J., Yu, K. Integrative Analysis of Multiple Case-Control Studies. Under review. 
+<!-- 
 2. **Zhang, H.**, Yu, K. Variance component model for Mendelian randomization in case-control studies based on a large number of instrumental variables. To be submitted. 
-3.	Wong, J.\*, **Zhang, H.**\*, …, Lan, Q. Agnostic pathway analysis of genome-wide association study data reveals shared genes related to immune response to Mycobacterium tuberculosis and lung adenocarcinoma risk among never smoking women in Asia. Under review. **\*Equally contributing first authors** 
+#3.	Wong, J.\*, **Zhang, H.**\*, …, Lan, Q. Agnostic pathway analysis of genome-wide association study data reveals shared genes related to immune response to Mycobacterium tuberculosis and lung adenocarcinoma risk among never smoking women in Asia. Under review. **\*Equally contributing first authors** 
+-->
 
 ## Selected Publications
 
-36.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2019) Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***. Accepted. 
+36.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2019) Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***, 107 (3): 689-703. 
 35.	**Zhang, H.**, Qin, J., Berndt, S. I., Albanes, D., Gail, M. H., Yu, K. (2019) On Mendelian randomization in case-control studies. ***Biometrics***, 76 (2): 380-391. 
 34.	Deng, L., **Zhang, H.**, Song, L., Yu, K. (2019) Approximation of bias and mean squared error in two-sample Mendelian randomization analyses. ***Biometrics***, 76 (2): 369-379.
 33.	Deng, L., **Zhang, H.**, Yu, K. (2020) Power calculation for the general two-sample Mendelian randomization analysis. ***Genetic Epidemiology***, 44 (3), 290-299. 
