@@ -1,5 +1,5 @@
 ## Work in Progress
-1. **Zhang, H.**, Deng, L., Qin, J., Yu, K. Integrative Analysis of Multiple Case-Control Studies. Biometrics. Minor revision. 
+1. **Zhang, H.**, Deng, L., Qin, J., Yu, K. Integrative analysis of multiple case-control studies. Biometrics. Minor revision. 
 <!-- 
 2. **Zhang, H.**, Yu, K. Variance component model for Mendelian randomization in case-control studies based on a large number of instrumental variables. To be submitted. 
 #3.	Wong, J.\*, **Zhang, H.**\*, …, Lan, Q. Agnostic pathway analysis of genome-wide association study data reveals shared genes related to immune response to Mycobacterium tuberculosis and lung adenocarcinoma risk among never smoking women in Asia. Under review. **\*Equally contributing first authors** 
