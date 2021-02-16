@@ -7,7 +7,7 @@
 
 ## Selected Publications
 
-36.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2020). Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***, 107 (3): 689-703. 
+1.	**Zhang, H.**, Deng, L., Schiffman, M., Qin, J., Yu, K. (2020). Generalized integration model for improved statistical inference by leveraging external summary data. ***Biometrika***, 107 (3): 689-703. 
 35.	**Zhang, H.**, Qin, J., Berndt, S. I., Albanes, D., Gail, M. H., Yu, K. (2020). On Mendelian randomization in case-control studies. ***Biometrics***, 76 (2): 380-391. 
 34.	Deng, L., **Zhang, H.**, Song, L., Yu, K. (2020). Approximation of bias and mean squared error in two-sample Mendelian randomization analyses. ***Biometrics***, 76 (2): 369-379.
 33.	Deng, L., **Zhang, H.**, Yu, K. (2020). Power calculation for the general two-sample Mendelian randomization analysis. ***Genetic Epidemiology***, 44 (3), 290-299. 
@@ -31,7 +31,7 @@
 
 ## Collaborative Publications
 
-16.	Tian, Y., Guida, J., Koka, H., Li, E., Zhu, B., ... **Zhang, H.**, … Yang, X. R. Increasing fibroglandular dense volume is associated with luminal B and HER2-enriched breast cancer subtype in Chinese women with breast cancer. ***JNCI Cancer Spectrum***. Accepted. 
+21.	Tian, Y., Guida, J., Koka, H., Li, E., Zhu, B., ... **Zhang, H.**, … Yang, X. R. Increasing fibroglandular dense volume is associated with luminal B and HER2-enriched breast cancer subtype in Chinese women with breast cancer. ***JNCI Cancer Spectrum***. Accepted. 
 15.	Kiely, M., Tse, S., Koka, H., Wang, D., Lee, P., Wang, F., … **Zhang, H.**, … Yang, X. R. (2020). Age-related DNA methylation in paired normal and tumor breast tissue in Chinese breast cancer patients. ***Epigenetics***. Accepted. 
 14.	Yuan, F., Hung, R. J., Walsh, N., **Zhang, H.**, Platz, E. A., Wheeler, W., ... Stolzenberg-Solomon, R. (2020). Genetic susceptibility to chronic inflammatory intestinal diseases and pancreatic ductal adenocarcinoma risk: an analysis using genome-wide association study data. ***Cancer Research***. Accepted. 
 13.	Barry, K. H., Jones, R. R., Cantor, K. P., Freeman, L., Wheeler, D. C., … **Zhang, H.**, … Ward, M. H. (2020). Ingested nitrate and nitrite and bladder cancer in Northern New England. ***Epidemiology***, 31 (1), 136-144. 
